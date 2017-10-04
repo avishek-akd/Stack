@@ -33,6 +33,7 @@ int main(){
 
 		switch(choice)
 		{
+				
 			case 1:
 				push();
 				break;
