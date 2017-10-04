@@ -33,6 +33,7 @@ int main (){
 
 		scan_ch = infix[i];
 		switch(scan_type(scan_ch)){
+				
 			case 1:
 
 				postfix[k] = scan_ch;
