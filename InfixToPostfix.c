@@ -5,7 +5,7 @@
 
 #define MAX 100
 
-
+//infix to postfix
 
 char stack[MAX];
 int top = -1;
